@@ -1,1 +1,1 @@
-worker: bash REBELBOT
+worker: bash LynxBot
