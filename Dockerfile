@@ -1,7 +1,7 @@
-FROM REBEL75/REBELSBOT:latest
+FROM Itz-UNKOWN-xd/Lynx-Bot:latest
 
 #clonning repo 
-RUN git clone https://github.com/REBEL75/REBELUSERBOT.git /root/userbot
+RUN git clone https://github.com/Itz-UNKOWN-xd/Lynx-UserBot.git /root/userbot
 #working directory 
 WORKDIR /root/userbot
 
