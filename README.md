@@ -38,3 +38,35 @@
 [![PR Closed](https://img.shields.io/github/issues-pr-closed/Itz-UNKOWN-xd/Lynx-Bot?&style=flat-square)](https://github.com/Itz-UNKOWN-xd/Lynx-Bot/pulls?q=is:closed) <br>
 ![Repo Size](https://img.shields.io/github/repo-size/Itz-UNKOWN-xd/Lynx-Bot?style=flat-square)
 <a href="https://github.com/Itz-UNKOWN-xd/Lynx-Bot"><img src="https://img.shields.io/github/last-commit/Itz-UNKOWN-xd/Lynx-Bot?style=flat-square"></a></p>
+
+<hr/>
+
+<br>
+
+
+
+
+
+### DON'T FORGET TO GIVE STAR🌟
+
+## Why to Choose 𝐋𝐲𝐧𝐱🌌UserBot🤔?
+```
+• 𝙏𝙃𝙄𝙎 𝙄𝙎 𝙑𝙀𝙍𝙔 𝙀𝘼𝙎𝙔 𝙏𝙊 𝘿𝙀𝙋𝙇𝙊𝙔 ✨
+• 𝘿𝙀𝙋𝙇𝙊𝙔𝘼𝘽𝙇𝙀 𝙏𝙊 𝙃𝙀𝙍𝙊𝙆𝙐✓
+• 𝙂𝙀𝙏 𝙍𝙀𝙂𝙐𝙇𝘼𝙍 𝙐𝙋𝘿𝘼𝙏𝙀𝙎✓ 
+• 𝙑𝙀𝙍𝙔 𝙁𝘼𝙎𝙏 𝘼𝙎 𝘾𝙊𝙈𝙋𝘼𝙍𝙀 𝙏𝙊 𝙊𝙏𝙃𝙀𝙍 𝘽𝙊𝙏𝙎
+• 𝙒𝙄𝙏𝙃 𝙇𝙊𝙏𝙎 𝙊𝙁 𝙐𝙎𝙀𝙁𝙐𝙇𝙇 𝙋𝙇𝙐𝙂𝙄𝙉𝙎🤩
+• 𝙒𝙄𝙏𝙃 𝙁𝙐𝙇𝙇 𝙎𝙀𝘾𝙐𝙍𝙀 𝙋𝙈_𝙎𝙀𝘾𝙐𝙍𝙄𝙏𝙔🔐
+• 100% 𝘾𝙐𝙎𝙏𝙊𝙈𝙄𝙎𝘼𝘽𝙇𝙀 💠
+• 𝙋𝙍𝙊 𝘼𝙎𝙎𝙄𝙎𝙏𝘼𝙉𝙏 𝙈𝘼𝙉𝘼𝙂𝙀𝙍 👥
+• 𝘼𝙎𝙎𝙄𝙎𝙏𝘼𝙉𝙏 𝘾𝘼𝙉 𝘽𝙀 𝘾𝙐𝙎𝙏𝙊𝙈𝙄𝙎𝙀𝘿 𝘼𝙎 𝙂𝙍𝙊𝙐𝙋 𝙈𝘼𝙉𝘼𝙂𝙀𝙍😍
+• 𝙔𝙊𝙐 𝘾𝘼𝙉 𝘾𝙐𝙎𝙏𝙊𝙈𝙄𝙎𝙀 𝙇𝙊𝙏𝙎 𝙊𝙁 𝙏𝙃𝙄𝙉𝙂𝙎
+  𝙒𝙄𝙏𝙃 𝘼𝙎𝙎𝙄𝙎𝙏𝘼𝙉𝙏🛂
+
+• ||𝙁𝙐𝙇𝙇 𝙎𝙐𝙋𝙋𝙊𝙍𝙏 𝙁𝙍𝙊𝙈 𝐋𝐲𝐧𝐱  𝙎𝙐𝙋𝙋𝙊𝙍𝙏 
+    𝙄𝙁 𝙂𝙀𝙏𝙎 𝙀𝙍𝙍𝙊𝙍𝙎🫂||
+
+# <i><b> sᴜᴘᴘ๏ʀᴛ 🏪</b></i>
+## Telegram 🏪
+- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/hellbot_chat)
+- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/its_hellbot)
