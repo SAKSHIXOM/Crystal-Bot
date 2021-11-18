@@ -1,7 +1,7 @@
 {
-  "name": "Tᕼᗴ LYNXBOT",
-  "description": "The LYNXBOT made by @MR_DEVELOPER_XD ",
-  "logo": "https://te.legra.ph/file/b32b48efce9dcfe73938a.jpg",
+  "name": "Tᕼᗴ CrystalBot",
+  "description": "The CrystalBot made by @MR_DEVELOPER_XD ",
+  "logo": "https://te.legra.ph/file/d9210d50497f561db0d9c.jpg",
     "keywords": [
     "telegram",
     "userbot",
@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/Itz-UNKOWN-xd/Lynx-Bot",
-  "website": "https://github.com/Itz-UNKOWN-xd/Lynx-Bot",
-  "success_url": "https://t.me/LynxBot_chat",
+  "repository": "https://github.com/SAKSHIXOM/Crystal-Bot",
+  "website": "https://github.com/SAKSHIXOM/Crystal-Bot",
+  "success_url": "https://t.me/CrystalBot_chat",
   "env": {
     "ENV": {
       "description": "Set this to ANYTHING will enable heroku.",
@@ -24,12 +24,12 @@
     },
     "ALIVE_NAME": {
       "description": "Fill your Full name or Username like @lynxbot_chat. By default it is Lynx User",
-      "value": "@LynxBot_Chat",
+      "value": "@CrystalBot_chat",
       "required": false
     },
     "ALIVE_MSG": {
       "description": "Set Custom Alive Message When entering .alive Command.",
-      "value": "⚔️ Lynx IS ALIVE⚔️",
+      "value": "⚔️ CrystalBot IS ALIVE⚔️",
       "required": false
     },
     "ALIVE_PIC": {
@@ -39,17 +39,17 @@
     },
     "HELP_PIC": {
       "description": "Put link of pic or gif to show your .help menu provider cool",
-      "value": "https://te.legra.ph/file/ea7e4fa36eab1a2d62fd8.jpg",
+      "value": "https://te.legra.ph/file/e0e994e33fca93ec2da37.jpg",
       "required": false 
     },
     "BIO_MSG": {
       "description": "Put Your Telegram Bio Here Required For Auto Bio.",
-      "value": "🔰𝐋𝐄𝐆𝐄𝐍𝐃 𝐒𝐀𝐘 𝐋𝐲𝐧𝐱𝐁𝐨𝐭🔰",
+      "value": "🔰𝐋𝐄𝐆𝐄𝐍𝐃 𝐒𝐀𝐘 CrystalBot🔰",
       "required": false
     },
     "PMPERMIT_PIC": {
       "description": "put here any telegraph media link for custom pmpermit pic.",
-      "value": "https://telegra.ph/file/5107e628774f5176146c9.jpg",
+      "value": "https://te.legra.ph/file/3082b57731ced0d858e13.jpg",
       "required": true
     },
     "CUSTOM_PMPERMIT": {
