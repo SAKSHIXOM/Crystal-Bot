@@ -25,3 +25,16 @@
 <br/>
 <hr> 
 </hr> 
+
+# Fᴏʀᴋ ᴀɴᴅ sᴛᴀʀs 
+<a href="https://github.com/Itz-UNKOWN-xd/Lynx-Bot/stargazers"><img src="https://img.shields.io/github/stars/Itz-UNKOWN-xd/Lynx-Bot?style=social"></a> 
+<a href="https://github.com/Itz-UNKOWN-xd/Lynx-Bot/fork"><img src="https://img.shields.io/github/forks/Itz-UNKOWN-xd/Lynx-Bot?label=Fork&logoColor=blue&style=social"></a> <br>  
+<hr/> 
+
+# Mᴀɪɴᴛᴇɴᴀɴᴄᴇ Sᴛᴀᴛs
+[![Issues Open](https://img.shields.io/github/issues/Itz-UNKOWN-xd/Lynx-Bot?&style=flat-square)]( https://github.com/Itz-UNKOWN-xd/Lynx-Bot/issues)
+[![Issues Closed](https://img.shields.io/github/issues-closed/Itz-UNKOWN-xd/Lynx-Bot?&style=flat-square)]( https://github.com/Itz-UNKOWN-xd/Lynx-Bot/issues?q=is:closed) <br>
+[![PR Open](https://img.shields.io/github/issues-pr/Itz-UNKOWN-xd/Lynx-Bot?&style=flat-square)]( https://github.com/Itz-UNKOWN-xd/Lynx-Bot/pulls)
+[![PR Closed](https://img.shields.io/github/issues-pr-closed/Itz-UNKOWN-xd/Lynx-Bot?&style=flat-square)](https://github.com/Itz-UNKOWN-xd/Lynx-Bot/pulls?q=is:closed) <br>
+![Repo Size](https://img.shields.io/github/repo-size/Itz-UNKOWN-xd/Lynx-Bot?style=flat-square)
+<a href="https://github.com/Itz-UNKOWN-xd/Lynx-Bot"><img src="https://img.shields.io/github/last-commit/Itz-UNKOWN-xd/Lynx-Bot?style=flat-square"></a></p>
