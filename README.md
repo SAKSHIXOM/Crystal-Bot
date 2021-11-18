@@ -65,8 +65,79 @@
 
 • ||𝙁𝙐𝙇𝙇 𝙎𝙐𝙋𝙋𝙊𝙍𝙏 𝙁𝙍𝙊𝙈 𝐋𝐲𝐧𝐱  𝙎𝙐𝙋𝙋𝙊𝙍𝙏 
     𝙄𝙁 𝙂𝙀𝙏𝙎 𝙀𝙍𝙍𝙊𝙍𝙎🫂||
-
+```
 # <i><b> sᴜᴘᴘ๏ʀᴛ 🏪</b></i>
 ## Telegram 🏪
-- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/hellbot_chat)
-- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/its_hellbot)
+- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/lynxbot_chat)
+- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/lynx_userbot)
+
+# 𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧
+<a href="https://heroku.com/deploy?template=https://github.com/Itz-UNKOWN-xd/Lynx-Bot" target="_blank"><img src="https://img.shields.io/badge/DEPLOY%20TO%20HEROKU-black?style=for-the-badge&logo=heroku" 
+height="40px" width="200px" alt="heroku" /></a>
+    
+<details><summary> <h1 align="left">𝙂𝙀𝙏 𝘼𝙇𝙇 𝙍𝙀𝙌𝙐𝙄𝙍𝙀𝙈𝙀𝙉𝙏𝙎</h1> </summary>
+
+## 𝐀𝐏𝐈_𝐈𝐃 - 𝐇𝐀𝐒𝐇
+   </p><p align="centre"><a href="https://my.telegram.org"> <img src="https://img.shields.io/badge/API_ID%20& HASH-Via%20Website-blue?style=for-the-badge&logo=telegram" alt="APIHASH" /></a> 
+      </p><p align="centre"><a href="https://t.me/Api_ScrapperRoBot"> <img src="https://img.shields.io/badge/API_ID%20 HASH-VIA%20BOT-blue?style=for-the-badge&logo=telegram" alt="APIHASH" /></a> 
+      
+## 𝐏𝐑𝐈𝐕𝐀𝐓𝐄 𝐆𝐑𝐎𝐔𝐏 𝐈𝐃
+<a href="https://telegra.ph/HOW-TO-GET-PRIVATE-GROUP-ID-08-10" target="_blank"><img src="https://img.shields.io/badge/Private_Group%20id-ARTICLE-orange?style=for-the-badge&logo=hhh" alt="group_id" /></a>
+
+## 𝐎𝐖𝐍𝐄𝐑 𝐈𝐃
+<a href="https://t.me/JuniorLover_bot" target="_blank"><img src="https://img.shields.io/badge/TELEGRAM-OWNER%20ID-teal?style=for-the-badge&logo=telegram" alt="botfather" /></a>
+
+## 𝐇𝐄𝐑𝐎𝐊𝐔 𝐀𝐏𝐈 𝐊𝐄𝐘
+<a href="https://dashboard.heroku.com/account" target="_blank"><img src="https://img.shields.io/badge/HEROKU-API%20KEY-purple?style=for-the-badge&logo=heroku" alt="heroku" /></a>
+
+## 𝐁𝐎𝐓 𝐓𝐎𝐊𝐄𝐍 - 𝐔𝐒𝐄𝐑𝐍𝐀𝐌𝐄
+<a href="https://t.me/Botfather" target="_blank"><img src="https://img.shields.io/badge/TELEGRAM-BOT%20TOKEN-red?style=for-the-badge&logo=telegram" alt="botfather" /></a>
+
+<a href="https://t.me/Botfather" target="_blank"><img src="https://img.shields.io/badge/TELEGRAM-BOT%20USERNAME-brown?style=for-the-badge&logo=telegram" alt="botfather" /></a>
+
+## 𝐒𝐓𝐑𝐈𝐍𝐆 𝐒𝐄𝐒𝐒𝐈𝐎𝐍 
+   <a href="https://replit.com/@DarkXstar-xd/Lynx-UserBot#main.py" target="_blank"><img src="https://img.shields.io/badge/run-string%20session-red?style=for-the-badge&logo=repl.it" alt="generate_string" /></a>
+
+<details><summary><h2 align="left">•𝙃𝙊𝙎𝙏 𝐋𝐲𝐧𝐱 𝙊𝙉 𝙑𝙋𝙎❄️•</h2></summary>
+
+### 𝙏𝙊 𝙃𝙊𝙎𝙏 𝐋𝐲𝐧𝐱 𝙊𝙉 𝙑𝙋𝙎/𝙏𝙀𝙍𝙈𝙐𝙓
+
+### Follow The Commands⚙️
+
+```sh
+
+pkg update && pkg upgrage
+pkg install git 
+# git clone
+git clone https://github.com/Itz-UNKOWN-xd/Lynx-Bot
+cd Lynx-Bot
+# Create a virtualENV
+virtualenv -p /usr/bin/python3 venv
+. ./venv/bin/activate
+# install requirements 
+pip install -r requirements.txt
+# <Create local_config.py with variables as given below>
+bash Lynx-Bot
+
+```
+### Mandatory Vars 🔌
+
+```
+
+•𝙊𝙉𝙇𝙔 𝙁𝙀𝙒 𝙏𝙃𝙄𝙉𝙂𝙎 𝙍𝙀𝙌𝙐𝙄𝙍𝙀𝘿•
+[+] API_ID: enter Your API_ID
+[+] API_HASH: enter Your API_HASH
+[+] STRING_SESSION: Your String Session
+[+] PRIVATE_GROUP_ID: Your Private_Group_id it must starts from -100
+
+```
+
+# YouTube Tutorial 📽️
+Coming Soon
+
+
+## 𝙳𝙴𝚅𝙴𝙻𝙿𝙾𝙴𝚁S
+</hr>
+
+• [Mr.Developer](https://t.me/mr_developer_xd)
+
