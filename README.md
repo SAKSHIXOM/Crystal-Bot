@@ -1,22 +1,22 @@
-<p align="center"><h1 align="center"><b> 🌌𝐋𝐲𝐧𝐱 𝐔𝐬𝐞𝐫𝐁𝐨𝐭</b></h1></p> 
+<p align="center"><h1 align="center"><b> 🌌𝐂𝐫𝐲𝐬𝐭𝐚𝐥𝐁𝐨𝐭 𝐔𝐬𝐞𝐫𝐁𝐨𝐭</b></h1></p> 
 <p align="center">
-   <a href="https://t.me/lynxbot_chat">
-      <img src="https://te.legra.ph/file/9d74a0bbeb63cc3b09759.jpg" border="1px" alt="astro">
+   <a href="https://t.me/CrystalBot_chat">
+      <img src="https://te.legra.ph/file/3082b57731ced0d858e13.jpg" border="1px" alt="astro">
       </a>
       <br>
-   <b>𝐋𝐲𝐧𝐱 𝐔𝐬𝐞𝐫𝐁𝐨𝐭</b><br>
+   <b>𝐂𝐫𝐲𝐬𝐭𝐚𝐥𝐁𝐨𝐭 𝐔𝐬𝐞𝐫𝐁𝐨𝐭</b><br>
    <i>ƬӇЄ ƑƲƬƲƦƖṠƬƖƇ ƲƁ</i>
 </p>
 
 <i><h3> 𝚂𝚃𝙰𝚃𝚄𝚂 𝙾𝙵 𝙱𝙾𝚃 </h3></i>
 <br>
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/AstroUB/Astro-UB)
-[![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg?&style=flat-square)]( https://github.com/AstroUB/Astro-UB#copyright--license)
+[![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg?&style=flat-square)]( https://github.com/SAKSHIXOM/Crystal-Bot-UB#copyright--license)
 [![Python 3.6](https://img.shields.io/badge/Python-3.9.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green?&style=flat-square)](https://GitHub.com/Itz-UNKOWN-xd/Lynx-Bot/graphs/commit-activity) 
-[![GitHub license](https://img.shields.io/github/license/Itz-UNKOWN-xd/Lynx-Bot?&style=flat-square&logo=github)](https://github.com/Itz-UNKOWN-xd/Lynx-Bot/blob/main/LICENSE) 
-[![GitHub contributors](https://img.shields.io/github/contributors/Itz-UNKOWN-xd/Lynx-Bot?&style=flat-square&logo=github)](https://GitHub.com/Itz-UNKOWN-xd/Lynx-Bot/graphs/contributors/)
-[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Itz-UNKOWN-xd/Lynx-Bot?&style=flat-square&logo=github)](https://github.com/Itz-UNKOWN-xd/Lynx-Bot/graphs/commit-activity)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green?&style=flat-square)](https://GitHub.com/SAKSHIXOM/Crystal-Bot/graphs/commit-activity) 
+[![GitHub license](https://img.shields.io/github/license/SAKSHIXOM/Crystal-Bot?&style=flat-square&logo=github)](https://github.com/Itz-UNKOWN-xd/Lynx-Bot/blob/main/LICENSE) 
+[![GitHub contributors](https://img.shields.io/github/contributors/SAKSHIXOM/Crystal-Bot?&style=flat-square&logo=github)](https://GitHub.com/SAKSHIXOM/Crystal-Bot/graphs/contributors/)
+[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/SAKSHIXOM/Crystal-Bot?&style=flat-square&logo=github)](https://github.com/SAKSHIXOM/Crystal-Bot/graphs/commit-activity)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
 
 [![ForTheBadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
@@ -27,17 +27,17 @@
 </hr> 
 
 # Fᴏʀᴋ ᴀɴᴅ sᴛᴀʀs 
-<a href="https://github.com/Itz-UNKOWN-xd/Lynx-Bot/stargazers"><img src="https://img.shields.io/github/stars/Itz-UNKOWN-xd/Lynx-Bot?style=social"></a> 
-<a href="https://github.com/Itz-UNKOWN-xd/Lynx-Bot/fork"><img src="https://img.shields.io/github/forks/Itz-UNKOWN-xd/Lynx-Bot?label=Fork&logoColor=blue&style=social"></a> <br>  
+<a href="https://github.com/SAKSHIXOM/Crystal-Bot/stargazers"><img src="https://img.shields.io/github/stars/SAKSHIXOM/Crystal-Bot?style=social"></a> 
+<a href="https://github.com/SAKSHIXOM/Crystal-Bot/fork"><img src="https://img.shields.io/github/forks/SAKSHIXOM/Crystal-Bot?label=Fork&logoColor=blue&style=social"></a> <br>  
 <hr/> 
 
 # Mᴀɪɴᴛᴇɴᴀɴᴄᴇ Sᴛᴀᴛs
-[![Issues Open](https://img.shields.io/github/issues/Itz-UNKOWN-xd/Lynx-Bot?&style=flat-square)]( https://github.com/Itz-UNKOWN-xd/Lynx-Bot/issues)
-[![Issues Closed](https://img.shields.io/github/issues-closed/Itz-UNKOWN-xd/Lynx-Bot?&style=flat-square)]( https://github.com/Itz-UNKOWN-xd/Lynx-Bot/issues?q=is:closed) <br>
-[![PR Open](https://img.shields.io/github/issues-pr/Itz-UNKOWN-xd/Lynx-Bot?&style=flat-square)]( https://github.com/Itz-UNKOWN-xd/Lynx-Bot/pulls)
-[![PR Closed](https://img.shields.io/github/issues-pr-closed/Itz-UNKOWN-xd/Lynx-Bot?&style=flat-square)](https://github.com/Itz-UNKOWN-xd/Lynx-Bot/pulls?q=is:closed) <br>
-![Repo Size](https://img.shields.io/github/repo-size/Itz-UNKOWN-xd/Lynx-Bot?style=flat-square)
-<a href="https://github.com/Itz-UNKOWN-xd/Lynx-Bot"><img src="https://img.shields.io/github/last-commit/Itz-UNKOWN-xd/Lynx-Bot?style=flat-square"></a></p>
+[![Issues Open](https://img.shields.io/github/issues/SAKSHIXOM/Crystal-Bot?&style=flat-square)]( https://github.com/SAKSHIXOM/Crystal-Bot/Lynx-Bot/issues)
+[![Issues Closed](https://img.shields.io/github/issues-closed/SAKSHIXOM/Crystal-Bot?&style=flat-square)]( https://github.com/SAKSHIXOM/Crystal-Bot/issues?q=is:closed) <br>
+[![PR Open](https://img.shields.io/github/issues-pr/SAKSHIXOM/Crystal-Bot?&style=flat-square)]( https://github.com/SAKSHIXOM/Crystal-Bot/pulls)
+[![PR Closed](https://img.shields.io/github/issues-pr-closed/SAKSHIXOM/Crystal-Bot?&style=flat-square)](https://github.com/SAKSHIXOM/Crystal-Bot/pulls?q=is:closed) <br>
+![Repo Size](https://img.shields.io/github/repo-size/SAKSHIXOM/Crystal-Bot?style=flat-square)
+<a href="https://github.com/SAKSHIXOM/Crystal-Bot"><img src="https://img.shields.io/github/last-commit/SAKSHIXOM/Crystal-Bot?style=flat-square"></a></p>
 
 <hr/>
 
@@ -68,11 +68,11 @@
 ```
 # <i><b> sᴜᴘᴘ๏ʀᴛ 🏪</b></i>
 ## Telegram 🏪
-- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/lynxbot_chat)
-- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/lynx_userbot)
+- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/CrystalBot_chat)
+- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/crystall_userbot)
 
 # 𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧
-<a href="https://heroku.com/deploy?template=https://github.com/Itz-UNKOWN-xd/Lynx-Bot" target="_blank"><img src="https://img.shields.io/badge/DEPLOY%20TO%20HEROKU-black?style=for-the-badge&logo=heroku" 
+<a href="https://heroku.com/deploy?template=https://github.com/SAKSHIXOM/Crystal-Bot" target="_blank"><img src="https://img.shields.io/badge/DEPLOY%20TO%20HEROKU-black?style=for-the-badge&logo=heroku" 
 height="40px" width="200px" alt="heroku" /></a>
     
 <details><summary> <h1 align="left">𝙂𝙀𝙏 𝘼𝙇𝙇 𝙍𝙀𝙌𝙐𝙄𝙍𝙀𝙈𝙀𝙉𝙏𝙎</h1> </summary>
@@ -100,7 +100,7 @@ height="40px" width="200px" alt="heroku" /></a>
 
 <details><summary><h2 align="left">•𝙃𝙊𝙎𝙏 𝐋𝐲𝐧𝐱 𝙊𝙉 𝙑𝙋𝙎❄️•</h2></summary>
 
-### 𝙏𝙊 𝙃𝙊𝙎𝙏 𝐋𝐲𝐧𝐱 𝙊𝙉 𝙑𝙋𝙎/𝙏𝙀𝙍𝙈𝙐𝙓
+### 𝙏𝙊 𝙃𝙊𝙎𝙏 Crystal 𝙊𝙉 𝙑𝙋𝙎/𝙏𝙀𝙍𝙈𝙐𝙓
 
 ### Follow The Commands⚙️
 
@@ -109,7 +109,7 @@ height="40px" width="200px" alt="heroku" /></a>
 pkg update && pkg upgrage
 pkg install git 
 # git clone
-git clone https://github.com/Itz-UNKOWN-xd/Lynx-Bot
+git clone https://github.com/SAKSHIXOM/Crystal-Bot
 cd Lynx-Bot
 # Create a virtualENV
 virtualenv -p /usr/bin/python3 venv
