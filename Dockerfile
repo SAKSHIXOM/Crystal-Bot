@@ -1,7 +1,7 @@
-FROM Itz-UNKOWN-xd/Lynx-Bot:latest
+FROM SAKSHIXOM/Crystal-Bot:latest
 
 #clonning repo 
-RUN git clone https://github.com/Itz-UNKOWN-xd/Lynx-UserBot.git /root/userbot
+RUN git clone https://github.com/SAKSHIXOM/Crystal-UserBot.git /root/userbot
 #working directory 
 WORKDIR /root/userbot
 
